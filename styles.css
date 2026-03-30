@@ -289,7 +289,7 @@ ul {
 .about-content { text-align: center; max-width: 800px; margin: 0 auto; }
 .about-highlight { font-size: 1.5rem; font-family: var(--font-heading); color: var(--text-primary); font-weight: 600; font-style: italic; margin-bottom: 25px; }
 
-.why-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; }
+.why-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
 .why-card { text-align: center; padding: 30px 20px; }
 .why-card i { font-size: 2.5rem; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 20px; }
 .why-card h4 { font-size: 1.1rem; margin-bottom: 10px; color: var(--text-primary); }
