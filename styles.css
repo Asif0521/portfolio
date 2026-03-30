@@ -342,7 +342,7 @@ ul {
 .project-actions { display: flex; gap: 15px; margin-top: auto; }
 
 /* Skills & Learning Section */
-.skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; }
+.skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
 .category-header { display: flex; align-items: center; gap: 15px; margin-bottom: 20px; }
 .category-header i { font-size: 1.5rem; color: var(--accent-blue); }
 .skill-tags { display: flex; flex-wrap: wrap; gap: 10px; }
